@@ -25,7 +25,7 @@ header {
 	background-color: #52bad5;
 	border-bottom: 1px solid #2C9AB7;
 }
-.logo {
+<.logo {
 	color: #fff;
 	font-weight: bold;
 	text-align: undefined;
@@ -466,7 +466,8 @@ nav ul li {
 	margin-top: 0px;
 	margin-right: 0px;
 	margin-bottom: 0px;
-	margin-left: 0px;
+	margin-left: 0px;<!-- Goto http://w3c.github.io/html-reference/input.text.html#input.text for more information on all attributes that can be used with text input field -->
+<input type="text" placeholder="Placeholder text" />
 	padding-top: 0px;
 	padding-right: 0px;
 	padding-bottom: 0px;
